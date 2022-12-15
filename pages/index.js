@@ -19,7 +19,7 @@ export default function Home() {
           <meta name="twitter:title" content="Big Day Boston Boundary" />
           <meta name="twitter:url" content="https://bigdayboston.com" />
           <meta name="twitter:image:alt" content="Big Day Boston Boundary" />
-          <meta name="twitter:image" content="/screenshot.png" />
+          <meta name="twitter:image" content="https://bdb-map-nm7si.ondigitalocean.app/screenshot.png" />
           <meta name="description" content="Boundary for the Big Day Boston birding competition." />
         </Head>
         <div id="map" style={{ height: "100vh", width: "100%" }}>
