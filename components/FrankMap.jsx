@@ -10,7 +10,6 @@ function onEachFeature(feature, layer) {
         var popupContent = '<strong>' + address + '</strong>:<br/>' + description;
         layer.bindTooltip(popupContent, {direction: 'auto', offset: [0, 0], permanent: false});
     }
-    else {}
 }
 
 function style(feature) {
@@ -30,7 +29,7 @@ function style(feature) {
         color: 'gray',
         fillOpacity: 0.4
     };
-};
+}
 
 const FrankMap = () => {
 
@@ -39,7 +38,7 @@ const FrankMap = () => {
 
     return (
         <MapContainer
-            center={[42.363705, -71.054951]}
+            center={[42.363370, -71.054799]}
             zoom={20}
             scrollWheelZoom={true}
             style={{ height: "100%", width: "100%", backgroundColor: "#232323", color: "#000" }}
