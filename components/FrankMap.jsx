@@ -38,7 +38,7 @@ const FrankMap = () => {
 
     return (
         <MapContainer
-            center={[42.363370, -71.054799]}
+            center={[42.363806, -71.054320]}
             zoom={20}
             scrollWheelZoom={true}
             style={{ height: "100%", width: "100%", backgroundColor: "#232323", color: "#000" }}
