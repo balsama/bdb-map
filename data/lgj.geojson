@@ -7062,15 +7062,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.1195007",
-                    "42.3312244"
+                    "-71.1053116",
+                    "42.3170976"
                 ]
             },
             "properties": {
                 "business_name": "STONY BROOK WINE & SPIRITS, INC.",
                 "dba_name": "",
                 "license_type": "Retail All Alc.",
-                "neighborhood": "unknown",
+                "neighborhood": "Jamaica Plain",
                 "address": "78-80   Boylston ST Jamaica Plain MA 02130"
             }
         },
@@ -13105,7 +13105,7 @@
                 "business_name": "SEAPORT HOTEL LIMITED PARTNERSHIP",
                 "dba_name": "SEAPORT HOTEL",
                 "license_type": "Inn. All Alc.",
-                "neighborhood": "unknown",
+                "neighborhood": "South Boston Waterfront",
                 "address": "1-  Seaport LN Boston MA 02210"
             }
         },
@@ -16718,15 +16718,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.1500619",
-                    "42.3349974"
+                    "-71.1502696",
+                    "42.3347929"
                 ]
             },
             "properties": {
                 "business_name": "Colwen Management, Inc.",
                 "dba_name": "AC HOTEL BY MARRIOTT CLEVELAND CIRCLE",
                 "license_type": "Inn. All Alc.",
-                "neighborhood": "unknown",
+                "neighborhood": "Brighton",
                 "address": "399-  Chestnut Hill AV Brighton MA 02135"
             }
         },
@@ -18061,15 +18061,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.2509599",
-                    "42.1068217"
+                    "-71.0580189",
+                    "42.3593145"
                 ]
             },
             "properties": {
                 "business_name": "Five Iron Golf Boston LLC ",
                 "dba_name": "Five Iron Golf",
                 "license_type": "CV7 All Alc.",
-                "neighborhood": "unknown",
+                "neighborhood": "Downtown",
                 "address": "1-  Washington MA Boston MA 02108"
             }
         },
