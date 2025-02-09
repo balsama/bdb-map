@@ -8762,8 +8762,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.0525333",
-                    "42.3661983"
+                    "-71.050285",
+                    "42.3674239"
                 ]
             },
             "properties": {
@@ -17279,15 +17279,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.0437292",
-                    "42.3536403"
+                    "-71.0427753",
+                    "42.3523155"
                 ]
             },
             "properties": {
                 "business_name": "OPA SEAPORT LLC",
                 "dba_name": "GReCO",
                 "license_type": "CV7 Malt Wine Liq.",
-                "neighborhood": "unknown",
+                "neighborhood": "South Boston Waterfront",
                 "address": "200-  Pier 4 BL Boston MA 02210"
             }
         },
@@ -18180,15 +18180,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.0584262",
-                    "42.355673"
+                    "-71.058363",
+                    "42.355791"
                 ]
             },
             "properties": {
                 "business_name": "RAGLIN ROAD, INC.",
                 "dba_name": "THE MERCHANT",
                 "license_type": "CV7 All Alc.",
-                "neighborhood": "unknown",
+                "neighborhood": "Downtown",
                 "address": "60-  Franklin ST Boston MA 02110"
             }
         },
@@ -22464,15 +22464,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.0512912",
-                    "42.352182"
+                    "-71.0512911",
+                    "42.3521821"
                 ]
             },
             "properties": {
                 "business_name": "BOSTON TEA PARTY SHIP, INC",
                 "dba_name": "BOSTON TEA PARTY SHIPS & MUSEUM",
                 "license_type": "CV7 All Alc.",
-                "neighborhood": "unknown",
+                "neighborhood": "South Boston Waterfront",
                 "address": "306     Congress ST Boston MA 02210"
             }
         },
